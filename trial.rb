@@ -1,2 +1,2 @@
 put 6+11
-print "Printing sum"
+print "Printing sum"puja
