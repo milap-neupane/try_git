@@ -1,2 +1,2 @@
-put 6+11
+put 1993
 print "Printing sum"puja
